@@ -1,0 +1,11 @@
+C:\Users\ucenik\Documents\Raul Dominik Holik\KlasaProces\KlasaProces\bin\Debug\KlasaProces.exe.config
+C:\Users\ucenik\Documents\Raul Dominik Holik\KlasaProces\KlasaProces\bin\Debug\KlasaProces.exe
+C:\Users\ucenik\Documents\Raul Dominik Holik\KlasaProces\KlasaProces\bin\Debug\KlasaProces.pdb
+C:\Users\ucenik\Documents\Raul Dominik Holik\KlasaProces\KlasaProces\obj\Debug\KlasaProces.csproj.AssemblyReference.cache
+C:\Users\ucenik\Documents\Raul Dominik Holik\KlasaProces\KlasaProces\obj\Debug\KlasaProces.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\Raul Dominik Holik\KlasaProces\KlasaProces\obj\Debug\KlasaProces.Form1.resources
+C:\Users\ucenik\Documents\Raul Dominik Holik\KlasaProces\KlasaProces\obj\Debug\KlasaProces.Properties.Resources.resources
+C:\Users\ucenik\Documents\Raul Dominik Holik\KlasaProces\KlasaProces\obj\Debug\KlasaProces.csproj.GenerateResource.cache
+C:\Users\ucenik\Documents\Raul Dominik Holik\KlasaProces\KlasaProces\obj\Debug\KlasaProces.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\Raul Dominik Holik\KlasaProces\KlasaProces\obj\Debug\KlasaProces.exe
+C:\Users\ucenik\Documents\Raul Dominik Holik\KlasaProces\KlasaProces\obj\Debug\KlasaProces.pdb
